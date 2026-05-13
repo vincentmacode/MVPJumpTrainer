@@ -1,5 +1,12 @@
 # MVPJumpTrainer
+## Privacy Policy Link for MVPJumpTrainer
+
+<br>**[MVPJumpTrainer](https://apps.apple.com/app/apple-store/id6761085380?pt=128696316&ct=MVPJumpTrainer&mt=8)**
+
 A vertical jump training app built for athletes.
+
+<br>**[Privacy Policy Link](https://mvpjumptrainer.netlify.app/)**
+
 
 **Privacy Policy**
 
